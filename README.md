@@ -36,5 +36,7 @@ pip install opencv-python mediapipe pyautogui
 python hand_volume_control.py
 ```
 📸 Output Preview
+
 You’ll see a live webcam window titled "Hand Gesture Volume Control". 
+
 Based on the finger gesture : "Volume Up" or"Volume Down" will be displayed, and the system volume will change accordingly.
